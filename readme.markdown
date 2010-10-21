@@ -1,9 +1,9 @@
 === WP-Foursquare Todo Adder ===
-*Contributors: mitchellhislop
-*Tags: foursquare, social
-*Requires at least: 2.9
-*Tested up to: 3.0.1
-*Stable tag: 1.0
+* Contributors: mitchellhislop
+* Tags: foursquare, social
+* Requires at least: 2.9
+* Tested up to: 3.0.1
+* Stable tag: 1.0
 
 
 This plugin allows a publisher to easily add a foursquare todo button to a post.
