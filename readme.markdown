@@ -1,4 +1,5 @@
 === WP-Foursquare Todo Adder ===
+
 * Contributors: mitchellhislop
 * Tags: foursquare, social
 * Requires at least: 2.9
